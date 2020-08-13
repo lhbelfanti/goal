@@ -60,7 +60,7 @@ func main() {
 
 	for _, v := range users {
 		fmt.Println(v)
-		fmt.Println("Saying:", v.Sayings)
+		fmt.Println("Sayings:", v.Sayings)
 	}
 	fmt.Println(" * - - - - - - - - - - - - - *")
 	sort.Sort(ByAge(users))
@@ -74,7 +74,7 @@ func main() {
 	for _, v := range users {
 		fmt.Println(v)
 		sort.Strings(v.Sayings)
-		fmt.Println("Saying:")
+		fmt.Println("Sayings:")
 		for i, s := range v.Sayings {
 			fmt.Printf("%d. %s \n", i, s)
 		}
@@ -85,7 +85,7 @@ func main() {
 
 func PrintUsers(users []User) {
 	for _, v := range users {
-		fmt.Println(v, "Saying:", v.Sayings)
+		fmt.Println(v, "Sayings:", v.Sayings)
 	}
 }
 
