@@ -5,7 +5,7 @@ This is the repository used to do all the exercise from the course: https://www.
 
 On each level there are exercises of specific topics:
 
-- [Level1](level1/README.md): Development environment. Variables, values and type.
+- [Level1](level1): Development environment. Variables, values and type.
 - [Level2](level2/README.md): Programming fundamentals
 - [Level3](level3/README.md): Control Flow
 - [Level4](level4/README.md): Grouping Data
