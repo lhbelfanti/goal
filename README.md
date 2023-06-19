@@ -1,7 +1,7 @@
 <p align="center">
   <img src="media/goal-logo.png" width="100" alt="Repository logo" />
 </p>
-<h3 align="center">Umbrella</h3>
+<h3 align="center">Goal</h3>
 <p align="center">The <b>GOAL</b> of this project is to learn the Go programming language<p>
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/lhbelfanti/goal?label=Repo%20size" alt="Repo size" />
